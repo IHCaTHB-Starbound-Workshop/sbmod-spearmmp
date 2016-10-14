@@ -5,9 +5,9 @@ Does not add any new items. Changes all spearheads to blunt versions by overwrit
 Art is all from default assets.
 
 [url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
-Find the server version on [url=https://github.com/IsaacHart/sbmod-qsarmmp]git.[/url]",
+Find the server version on [url=https://github.com/IsaacHart/sbmod-qsarmtmp]git.[/url]",
   "friendlyName" : "Quarterstaff Armory Tweaks (Multiplayer Friendly)",
   "link" : "community.playstarbound.com/threads/124193/",
-  "name" : "QSARMMP.IHC",
+  "name" : "QSARMTMP.IHC",
   "version" : "0.1"
 }
