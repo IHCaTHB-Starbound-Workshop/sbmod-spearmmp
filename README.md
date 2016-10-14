@@ -1,1 +1,1 @@
-# sbmod-qsarmmp
+# sbmod-spearmmp
