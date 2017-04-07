@@ -1,13 +1,15 @@
 {
   "author" : "isaac as THE HONEY BADGER",
-  "description" : "[h1]Adds blunt weapon ends to spears.[/h1]
-Does not add any new items. Changes all spearheads to blunt versions by overwriting base assets in order to make it multiplayer friendly.
-Art is all from default assets.
+  "description" : "^#5aa9d6;Adds blunt weapon ends to spears.^reset;
 
-[url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
-Find the server version on [url=https://github.com/IsaacHart/sbmod-spearmmp/releases]git.[/url]",
+Does not add any new items. Changes all spearheads to blunt versions by overwriting base assets in order to make it multiplayer friendly.
+Art entirely from default assets.
+
+For more, click the MEGATHREAD link from the steam page.",
   "friendlyName" : "Spear Armory Tweaks (Quarterstaff - Multiplayer Friendly)",
+  "includes" : [],
   "link" : "community.playstarbound.com/threads/124193/",
   "name" : "SPEARMMP.IHC",
+  "requires" : [],
   "version" : "0.1"
 }
